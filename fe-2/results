@@ -1,0 +1,19 @@
+results 
+
+color-contrast-checker
+0: {textContent: "Q", color: "rgb(255, 0, 255)", backgroundColor: "rgb(255, 255, 255)", myColorContrastRatio: 3.51123595505617, chromaColorContrastRatio: 3.1362007168458783}
+1: {textContent: "Y", color: "rgb(68, 34, 68)", backgroundColor: "rgb(68, 34, 68)", myColorContrastRatio: 1, chromaColorContrastRatio: 1}
+2: {textContent: "A", color: "rgb(255, 255, 0)", backgroundColor: "rgb(68, 34, 68)", myColorContrastRatio: 6281.827911036932, chromaColorContrastRatio: 12.551420077467801}
+3: {textContent: "Q", color: "rgb(255, 238, 254)", backgroundColor: "rgb(153, 0, 0)", myColorContrastRatio: 68.07001052838818, chromaColorContrastRatio: 8.032822159042434}
+4: {textContent: "M", color: "rgb(255, 255, 0)", backgroundColor: "rgb(255, 255, 0)", myColorContrastRatio: 1, chromaColorContrastRatio: 1}
+5: {textContent: "O", color: "rgb(0, 0, 0)", backgroundColor: "rgb(255, 119, 119)", myColorContrastRatio: 209215859952914.9, chromaColorContrastRatio: 8.157112213392944}
+
+
+chroma
+0: {t: "Q", f: "rgb(255, 0, 255)", b: "rgb(255, 255, 255)", colorContrastRatio: 3.1362007168458783}
+1: {t: "Y", f: "rgb(68, 34, 68)", b: "rgb(68, 34, 68)", colorContrastRatio: 1}
+2: {t: "A", f: "rgb(255, 255, 0)", b: "rgb(68, 34, 68)", colorContrastRatio: 12.551420077467801}
+3: {t: "Q", f: "rgb(255, 238, 254)", b: "rgb(153, 0, 0)", colorContrastRatio: 8.032822159042434}
+4: {t: "M", f: "rgb(255, 255, 0)", b: "rgb(255, 255, 0)", colorContrastRatio: 1}
+5: {t: "O", f: "rgb(0, 0, 0)", b: "rgb(255, 119, 119)", colorContrastRatio: 8.157112213392944}
+length: 6
